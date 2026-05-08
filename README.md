@@ -2,9 +2,7 @@
 
 Welcome to my **DevSecOps Learning Journey** repository.
 
-This repository documents my progress as I build practical skills across **DevOps, security, cloud infrastructure, automation, Kubernetes, observability, and secure software delivery**. The aim of this learning journey is to develop hands-on experience through weekly notes, labs, security tooling, infrastructure projects, and portfolio-ready DevSecOps projects.
-
-The content in this repository is organised to show both my learning process and my practical implementation of DevSecOps concepts.
+This repository documents my progress as I build practical skills across **DevOps, security, cloud infrastructure, automation, Kubernetes, observability, and secure software delivery**. The aim of this learning journey is to develop hands-on experience through weekly notes, labs, security tooling, infrastructure projects, and portfolio-ready DevSecOps projects. The content in this repository is organised to show both my learning process and my practical implementation of DevSecOps concepts.
 
 ---
 
@@ -118,13 +116,11 @@ DevSecOps-Learning/
 ├── screenshots/
 └── README.md
 
+```
+
 ## 📚 Weekly Learning Notes
 
-Each weekly folder contains notes, commands, examples, diagrams, and practical exercises related to that week’s focus area.
-
-The notes are designed to explain not only **what** each tool or concept does, but also **why** it matters in a DevSecOps environment.
-
----
+Each weekly folder contains notes, commands, examples, diagrams, and practical exercises related to that week’s focus area. The notes are designed to explain not only what each tool or concept does, but also why it matters in a DevSecOps environment.
 
 ## 🔐 DevSecOps Focus Areas
 
@@ -142,8 +138,6 @@ Throughout this journey, I will focus on important DevSecOps principles such as:
 - Kubernetes security
 - Monitoring and incident response
 
----
-
 ## 🧠 Key Learning Goals
 
 By the end of this learning journey, I aim to be able to:
@@ -157,27 +151,14 @@ By the end of this learning journey, I aim to be able to:
 - Monitor applications and infrastructure using observability tools
 - Build a complete DevSecOps capstone project
 
----
-
 ## 📌 Progress Tracking
 
 Progress will be tracked through:
 
 - Weekly notes
 - Practical labs
-- Project folders
-- Screenshots
-- Diagrams
-- Git commits
+- Project
 - Reflections and lessons learned
-
----
-
-## ✅ Status
-
-This repository is actively being updated as I continue through my DevSecOps learning journey.
-
----
 
 ## 🤝 Connect
 
