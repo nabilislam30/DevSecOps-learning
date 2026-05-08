@@ -1,0 +1,4 @@
+DevOps is a collaborative organisational model that brings together software development and operations teams. It helps IT departments meet expectation and improve efficiency. It focuses on communication between different teams to achieve greater efficiencies and foster a sense of productive collaboration.
+DevSecOps is the practice of integrating security throughout the software development lifecycle. It focuses on **‘Shift security left’** into active development instead of addressing it after code has been completed. Goal to strengthen deployment security and compliance. Shift security left  is integrating security testing and practices early into the software development rather than waiting for post-deployment
+
+![alt text](image.png)
